@@ -1,7 +1,7 @@
 from turtle import *
 
 speed(99)
-bgcolor('black')
+bgcolor('Blue')
 
 for i in range(240):
     color('cyan')
